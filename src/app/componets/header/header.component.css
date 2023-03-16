@@ -1,0 +1,9 @@
+div{
+    background-color: cadetblue;
+}
+
+app-redes-sociales{
+    float: right;
+    margin-top: 25px;
+    padding: 5px;
+}
