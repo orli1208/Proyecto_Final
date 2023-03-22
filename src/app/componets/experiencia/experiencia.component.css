@@ -1,0 +1,19 @@
+.row{
+    padding: 15px;
+}
+
+#titulo{
+    padding: 20px;
+}
+
+h1, h3{
+    display: inline;
+}
+
+h3{
+    float: right;
+}
+
+p{
+    padding: 10px;
+}
