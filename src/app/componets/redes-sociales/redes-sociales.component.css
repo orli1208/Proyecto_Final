@@ -1,3 +1,16 @@
 img{
     width: 50px;
 }
+
+button{
+    margin: 7px;
+}
+
+@media(max-width: 576px){
+    button{
+        display: flex;
+        margin: 15px;
+        position: relative;
+        right: 35px;
+}
+}
